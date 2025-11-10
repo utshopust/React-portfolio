@@ -99,9 +99,10 @@
 
 // export default Banner
 
+// src/components/Banner.jsx
+// src/components/Banner.jsx
 import React, { useEffect, useRef, useState } from 'react'
 import profilePic from '../assets/profile.jpg'
-import CV from '../assets/Hasan Ul Kabir Utsho.pdf'
 import { FaDownload, FaPhone } from 'react-icons/fa'
 
 const Banner = () => {
@@ -147,13 +148,16 @@ const Banner = () => {
         </p>
 
         <div className={`flex flex-col sm:flex-row justify-center lg:justify-start gap-4 opacity-0 ${visible ? 'animate-fade-in delay-800' : ''}`}>
+          {/* CV Download Link */}
           <a
-            href={CV}
+            href="/Hasan_Ul_Kabir_Utsho.pdf"
             download
             className="btn btn-primary flex items-center gap-2 transition-transform transform hover:scale-105"
           >
             <FaDownload /> Download CV
           </a>
+
+          {/* Contact Button */}
           <a
             href="#contact"
             className="btn btn-outline btn-primary flex items-center gap-2 transition-transform transform hover:scale-105"
@@ -176,3 +180,5 @@ const Banner = () => {
 }
 
 export default Banner
+
+
