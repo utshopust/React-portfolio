@@ -3,27 +3,28 @@
 A modern, responsive personal portfolio built with **React**, **Vite**, **Tailwind CSS**, and **DaisyUI**.  
 This portfolio showcases my skills, projects, resume, and contact information.
 
-## Live Demo
+## 🚀 Live Demo
 
-Check out the live version [here](https://superb-malabi-8304aa.netlify.app/).
+Check out the live version here:  
+👉 [https://lustrous-pony-7d7532.netlify.app/](https://lustrous-pony-7d7532.netlify.app/)
 
-## Features
+## ✨ Features
 
-- Responsive layout with Tailwind CSS and DaisyUI  
+- Responsive layout built with Tailwind CSS and DaisyUI  
 - Smooth scrolling navigation  
-- Interactive components and hover animations  
+- Interactive hover animations  
 - Downloadable CV  
 - Contact form integrated with EmailJS  
 - Links to GitHub, LinkedIn, and other social profiles  
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - **Frontend:** React, Tailwind CSS, DaisyUI  
 - **Build Tool:** Vite  
 - **Icons:** React Icons  
 - **Form Handling:** EmailJS  
 
-## Project Setup
+## ⚙️ Project Setup
 
 ### 1. Clone the repository
 
