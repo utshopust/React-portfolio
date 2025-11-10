@@ -5,23 +5,23 @@ This portfolio showcases my skills, projects, resume, and contact information.
 
 ## Live Demo
 
-Check out the live version [here](http://uninterested-jump.surge.sh).
+Check out the live version [here](https://superb-malabi-8304aa.netlify.app/).
 
 ## Features
 
-- Responsive layout with Tailwind CSS and DaisyUI
-- Smooth scrolling navigation
-- Interactive components and hover animations
-- Downloadable CV
-- Contact form integrated with EmailJS
-- Links to GitHub, LinkedIn, and other social profiles
+- Responsive layout with Tailwind CSS and DaisyUI  
+- Smooth scrolling navigation  
+- Interactive components and hover animations  
+- Downloadable CV  
+- Contact form integrated with EmailJS  
+- Links to GitHub, LinkedIn, and other social profiles  
 
 ## Technologies Used
 
-- **Frontend:** React, Tailwind CSS, DaisyUI
-- **Build Tool:** Vite
-- **Icons:** React Icons
-- **Form Handling:** EmailJS
+- **Frontend:** React, Tailwind CSS, DaisyUI  
+- **Build Tool:** Vite  
+- **Icons:** React Icons  
+- **Form Handling:** EmailJS  
 
 ## Project Setup
 
@@ -30,6 +30,3 @@ Check out the live version [here](http://uninterested-jump.surge.sh).
 ```bash
 git clone https://github.com/utshopust/your-repo-name.git
 cd your-repo-name
-```
-
-
